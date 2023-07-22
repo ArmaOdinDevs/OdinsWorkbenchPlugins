@@ -1,0 +1,8 @@
+GameProject {
+ ID "OdinsWorkbenchPlugins"
+ GUID "5DE1715977AD73C7"
+ TITLE "OdinsWorkbenchPlugins"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
