@@ -1,4 +1,4 @@
-# OdinGameMasterAdditions
+# Odin Workbench Plugins
 
 A mod that is meant to be used by developers using the Workbench. It adds some extra plugins for ease of use. Simply load it up together with the workbench to get the use from it. 
 
